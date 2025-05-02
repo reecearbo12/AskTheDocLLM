@@ -6,3 +6,4 @@ tiktoken
 langchain_community
 numpy==1.26.4 
 protobuf==4.25.3
+faiss-cpu
