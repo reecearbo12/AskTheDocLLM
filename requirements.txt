@@ -4,3 +4,6 @@ openai
 chromadb
 tiktoken
 langchain-community
+protobuf==3.20.*
+opentelemetry-api==1.22.0
+opentelemetry-sdk==1.22.0
