@@ -4,9 +4,6 @@ Created on Wed Apr 23 11:37:07 2025
 
 @author: Reece
 """
-import sys
-print(sys.executable)
-
 import streamlit as st
 from langchain.llms import OpenAI
 from langchain.text_splitter import CharacterTextSplitter
